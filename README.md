@@ -29,16 +29,16 @@ The analysis revealed that the initial hypothesis was not correct. Kenyan Twitte
 I created several visualizations to gain a better understanding of the data.
 
 *Figure 1: Distribution of Sentiment Scores in Kenyan Insurance Twitter Data*
-![img_3.png](Twitter Sentiment Analysis/assets/sentiment_distribution.png)
+![img_3.png](https://github.com/arnoldmuiruri/insurance_sentiment_analysis/blob/master/Twitter%20Sentiment%20Analysis/assets/sentiment_distribution.png)
 
 *Figure 2: Word Cloud of Negative Kenyan Insurance Tweets*
-![img_5.png](Twitter Sentiment Analysis/assets/word_cloud_negative.png)
+![img_5.png](https://github.com/arnoldmuiruri/insurance_sentiment_analysis/blob/master/Twitter%20Sentiment%20Analysis/assets/word_cloud_negative.png)
 
 *Figure 3: Word Cloud of Positive Kenyan Insurance Tweets*
-![img_6.png](Twitter Sentiment Analysis/assets/word_cloud_positive.png)
+![img_6.png](https://github.com/arnoldmuiruri/insurance_sentiment_analysis/blob/master/Twitter%20Sentiment%20Analysis/assets/word_cloud_positive.png)
 
 *Figure 4: Word Cloud of Neutral Kenyan Insurance Tweets*
-![img_8.png](Twitter Sentiment Analysis/assets/word_cloud_neutral.png)
+![img_8.png](https://github.com/arnoldmuiruri/insurance_sentiment_analysis/blob/master/Twitter%20Sentiment%20Analysis/assets/word_cloud_neutral.png)
 
 ## Conclusion
 
