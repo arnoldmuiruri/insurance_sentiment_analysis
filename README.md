@@ -28,27 +28,27 @@ The analysis revealed that the initial hypothesis was not correct. Kenyan Twitte
 
 I created several visualizations to gain a better understanding of the data.
 
-<p align="center" > *Figure 1: Distribution of Sentiment Scores in Kenyan Insurance Twitter Data* </p>
+ *Figure 1: Distribution of Sentiment Scores in Kenyan Insurance Twitter Data* 
 
 ![img_3.png](https://github.com/arnoldmuiruri/insurance_sentiment_analysis/blob/master/Twitter%20Sentiment%20Analysis/assets/sentiment_distribution.png)
 
-<p align="center" > *Figure 2: Word Cloud of Negative Kenyan Insurance Tweets* </p>
+*Figure 2: Word Cloud of Negative Kenyan Insurance Tweets* 
 
 ![img_5.png](https://github.com/arnoldmuiruri/insurance_sentiment_analysis/blob/master/Twitter%20Sentiment%20Analysis/assets/word_cloud_negative.png)
 
-<p align="center" > *Figure 3: Word Cloud of Positive Kenyan Insurance Tweets* </p>
+*Figure 3: Word Cloud of Positive Kenyan Insurance Tweets* 
 
 ![img_6.png](https://github.com/arnoldmuiruri/insurance_sentiment_analysis/blob/master/Twitter%20Sentiment%20Analysis/assets/word_cloud_positive.png)
 
-<p align="center" > *Figure 4: Word Cloud of Neutral Kenyan Insurance Tweets* </p>
+*Figure 4: Word Cloud of Neutral Kenyan Insurance Tweets* 
 
 ![img_8.png](https://github.com/arnoldmuiruri/insurance_sentiment_analysis/blob/master/Twitter%20Sentiment%20Analysis/assets/word_cloud_neutral.png)
 
 ## Conclusion
 
-My analysis provides valuable insights into how Kenyan Twitter users feel about insurance. The positive sentiment towards insurance suggests that insurance companies need to focus their marketing efforts on health insurance and life assurance products. 
+My analysis provides valuable insights into how Kenyan Twitter users feel about insurance. The positive sentiment towards insurance suggests that insurance companies need to focus their marketing efforts on health insurance and life assurance products.\
 
-Negative sentiments however seemed to be towards motor insurance and partly towards health insurance. In addition, the negative sentiments were partly due to delayed claim payments and lack of coverage against some medical bills. The issues raised by Kenyan Twitter users highlight that insurers need to improve their customer service and develop alternative products that cover most medical bills for the consumers.
+Negative sentiments however seemed to be towards motor insurance and partly towards health insurance. In addition, the negative sentiments were partly due to delayed claim payments and lack of coverage against some medical bills. The issues raised by Kenyan Twitter users highlight that insurers need to improve their customer service and develop alternative products that cover most medical bills for the consumers.\
 
 The analysis shows that the majority of the tweets related to insurance from Kenyan Twitter users were positive. This could indicate that there is generally a positive perception of insurance in Kenya. However, it is important to note that this analysis was conducted on a small sample size and may not be representative of the entire Kenyan population.
 
