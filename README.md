@@ -8,7 +8,7 @@ Based on prior knowledge, I have the initial hypothesis that Kenyan Twitter user
 
 ## Data Collection
 
-I collected tweets using the Twitter API, using a combination of keywords related to insurance and Kenya. We collected tweets from 1st January 2020 to 31st December 2023, resulting in a dataset of approximately 2,700 tweets.
+I collected tweets using the Twitter API, using a combination of keywords related to insurance and Kenya. We collected tweets from 1st January 2020 to 31st December 2022, resulting in a dataset of approximately 2,700 tweets.
 
 ## Data Wrangling and Analysis
 
